@@ -1,0 +1,43 @@
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px){
+    .packages {
+        
+    }
+}
+
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+        .packages {
+        
+            display: flex;
+            flex-wrap: wrap;
+            
+           
+          
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .header .menu   { 
+        display: flex;
+        flex-direction: column;
+        
+    }   
+    
+    .packages {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+  
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px)
+
+
+/* Large desktop */
+/*@media (min-width: 1200px)*/

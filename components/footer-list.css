@@ -1,0 +1,26 @@
+.footer-list {
+    padding-left: 40px;
+    list-style: none;
+    padding-top: 50px;
+    font-size: 20px;
+    
+    
+    
+    
+}
+
+.footer-list li {
+   padding-bottom: 10px;
+   display: flex;
+   justify-content: center;
+   
+   
+   
+}
+
+.footer-list li svg {
+    padding-right: 10px;
+    
+}
+
+

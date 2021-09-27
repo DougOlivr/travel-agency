@@ -1,0 +1,11 @@
+.action {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-right: 20px;
+    
+}
+
+.action:hover {
+    color: #FF69B4;
+}

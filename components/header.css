@@ -1,0 +1,14 @@
+.header {
+    height: calc(100vh - 250px);
+    background: no-repeat center/cover url(../img/header-image.jpg);
+    border-bottom: 7px solid #FFC0CB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+    
+}
+
+
